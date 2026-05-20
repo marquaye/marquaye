@@ -50,6 +50,11 @@ I am constantly wandering between business and tech to create products that make
 - **Bootstrapping SaaS Platforms** - Focused on tight unit economics, rapid prototyping, and shipping minimum viable products in days.
 - **Empowering Developers** - Designing workshops to train both junior and senior developers on how to leverage vibe-coding workflows safely and effectively.
 
+## Articles
+![The Sky is patient](https://medium.com/@stephan.akrong/the-sky-is-patient-75738bc6b553)
+![Electric Cars 2021](https://medium.com/@stephan.akrong/are-electric-cars-better-than-traditional-cars-not-yet-but-history-proves-they-will-be-d6beea1f1d69)
+![The dawn of AGI](https://medium.com/@stephan.akrong/the-dawn-of-artificial-general-intelligence-how-language-models-evolved-into-intelligent-beings-6e1c77218460)
+
 ## Philosophy
 
 > "Let's iterate on that" - Thinking in versions instead of going from zero to the final product is the mind shift we all have to make. 
