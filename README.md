@@ -1,8 +1,6 @@
-# Hi, I'm Stephan
+# Hi, I'm Stephan 👋
 
-**Hamburg, Germany**  
-**SaaS Entrepreneur & Software Engineer**  
-**CEO turned Strategic Advisor & Spec-Driven Developer**
+📍 **Hamburg** | 🤖 **CEO turned Strategic Advisor & Spec-Driven Developer** | 🚀 **SaaS Entrepreneur & Software Engineer**
 
 I build products at the intersection of business, software, automation, and AI.  
 Most of my work is about turning messy real-world workflows into focused products that people can actually use.
