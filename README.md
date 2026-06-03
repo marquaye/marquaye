@@ -85,5 +85,5 @@ You do not need to jump from zero to perfect. You need a good next version, a wa
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marquaye)
-[![Website](https://img.shields.io/badge/-Website-FFB59C?style=flat-square&logo=firefox&logoColor=black)](https://stephanakrong.com)
+[![Website](https://img.shields.io/badge/-Website-FFB59C?style=flat-square&logo=firefox&logoColor=black)](https://marquaye.com)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@stephan.akrong)
