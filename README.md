@@ -5,7 +5,7 @@
 I build products at the intersection of business, software, automation, and AI.  
 Most of my work is about turning messy real-world workflows into focused products that people can actually use.
 
-[![Website](https://img.shields.io/badge/-stephanakrong.com-181717?style=flat-square&logo=firefox&logoColor=white)](https://stephanakrong.com)
+[![Website](https://img.shields.io/badge/-marquaye.com-181717?style=flat-square&logo=firefox&logoColor=white)](https://marquaye.com)
 [![GitHub](https://img.shields.io/badge/-Follow_marquaye-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marquaye)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@stephan.akrong)
 
