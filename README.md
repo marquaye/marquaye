@@ -79,7 +79,6 @@ You do not need to jump from zero to perfect. You need a good next version, a wa
 - Locally running personal assistants are the future.
 - Dad of an energetic toddler, the original inspiration behind Luniko and Kreativbuch.
 - Big supporter of [Aidia](https://aidia-pitch.de/) and [2Hearts](https://www.2heartscommunity.com/).
-- Functional fitness enthusiast: HYROX, swimming, Thai boxing, and bouldering.
 - Big fan of Afrobeat, Jazz, Future Soul, and RnB grooves.
 
 ## Connect
